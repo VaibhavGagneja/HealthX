@@ -1,0 +1,12 @@
+D:\ProjectJWT\AuthenticationJwt\bin\Debug\net5.0\AuthenticationJwt.deps.json
+D:\ProjectJWT\AuthenticationJwt\bin\Debug\net5.0\AuthenticationJwt.dll
+D:\ProjectJWT\AuthenticationJwt\bin\Debug\net5.0\AuthenticationJwt.pdb
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\AuthenticationJwt.csproj.AssemblyReference.cache
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\AuthenticationJwt.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\AuthenticationJwt.AssemblyInfoInputs.cache
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\AuthenticationJwt.AssemblyInfo.cs
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\AuthenticationJwt.csproj.CoreCompileInputs.cache
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\AuthenticationJwt.dll
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\refint\AuthenticationJwt.dll
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\AuthenticationJwt.pdb
+D:\ProjectJWT\AuthenticationJwt\obj\Debug\net5.0\ref\AuthenticationJwt.dll
